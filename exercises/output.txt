@@ -1,0 +1,65 @@
+Hello davi! This is the truth table solver!
+Feel free to type in expressions
+>> p q r ans
+0 0 0 1
+0 0 1 1
+0 1 0 1
+0 1 1 1
+1 0 0 1
+1 0 1 1
+1 1 0 1
+1 1 1 1
+
+>> p q ans
+0 0 1
+0 1 1
+1 0 1
+1 1 1
+
+>> p q ans
+0 0 1
+0 1 1
+1 0 1
+1 1 1
+
+>> p q ans
+0 0 1
+0 1 1
+1 0 1
+1 1 1
+
+>> p q ans
+0 0 1
+0 1 1
+1 0 1
+1 1 1
+
+>> p q ans
+0 0 1
+0 1 0
+1 0 0
+1 1 1
+
+>> p q r ans
+0 0 0 1
+0 0 1 1
+0 1 0 1
+0 1 1 1
+1 0 0 1
+1 0 1 1
+1 1 0 1
+1 1 1 1
+
+>> p q ans
+0 0 1
+0 1 1
+1 0 1
+1 1 1
+
+>> p q ans
+0 0 0
+0 1 0
+1 0 1
+1 1 1
+
+>> 
